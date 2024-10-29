@@ -32,21 +32,27 @@ Posterior se hicieron diferentes consultas entre las más relevantes son:
 ![image](https://github.com/user-attachments/assets/23276f71-fa70-4952-b039-2b937d03a87a)
 
 Entre otras, con la finalidad de conocer ambas tablas y tener una noción de los datios en las mismas. Aunado ha eso se hizo una unión de ambas tablas para realizar asi el analisis. 
+
 ![image](https://github.com/user-attachments/assets/2192984f-2854-46ed-b908-65514640688d)
+
 (Con la cantidad de datos se sabe que es mas grande pero esta imagen muestra parte de su estructura).
 
 Las siguientes consultas se hiceron de esta unión (left join)
 
 --¿Cuales fueron los platillos mas solicitados del menu?
+
 ![image](https://github.com/user-attachments/assets/23fb9b14-f1c4-4d87-b234-810406a40faf)
 
 --¿A que categoria pertenecen los platilos mas pedidos?
+
 ![image](https://github.com/user-attachments/assets/7f8a2814-a5b0-44af-8a37-9e72d52a2921)
 
 --¿En qué fechas se hicieron mas pedidos? 
+
 ![image](https://github.com/user-attachments/assets/5d52a832-cda4-44de-a6af-b4f14a51321b)
 
 --¿En que fechas se hicieron pedidos de platillos mas caros?
+
 ![image](https://github.com/user-attachments/assets/9eca67a1-473b-4f66-ab32-cb2994d835d3)
 
 ## Conclusión
