@@ -22,10 +22,13 @@ Así mismo la tabla “order_details” para conocer los datos que han sido reco
 Posterior se hicieron diferentes consultas entre las más relevantes son: 
 --¿Cuál es el artículo menos caro y el más caro en el menú?
 ![image](https://github.com/user-attachments/assets/4ed8fe63-ff39-40d6-b76a-dfbac112c7eb)
+
 --¿Cuál es el precio promedio de los platos?
 ![image](https://github.com/user-attachments/assets/7fd919ad-9038-4deb-8622-2fc2fec0955d)
+
 --¿Cuáles son los 5 pedidos que tuvieron el mayor número de artículos?
 ![image](https://github.com/user-attachments/assets/23276f71-fa70-4952-b039-2b937d03a87a)
+
 Entre otras, con la finalidad de conocer ambas tablas y tener una noción de los datios en las mismas. Aunado ha eso se hizo una unión de ambas tablas para realizar asi el analisis. 
 ![image](https://github.com/user-attachments/assets/2192984f-2854-46ed-b908-65514640688d)
 (Con la cantidad de datos se sabe que es mas grande pero esta imagen muestra parte de su estructura).
