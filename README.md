@@ -13,13 +13,17 @@ En la siguiente imagen se muestra como se conforma la base de datos con la que s
 ![image](https://github.com/user-attachments/assets/8206b3ca-a98b-40c9-af53-c7e4f1d7bfc1)
 
 ## Desarrollo.
+
 Se realizó la base de datos con el archivo create_restaurant_db.sql en pgAdmin.Dando como resultado la  tabla “menu_items” que da a conocer los productos del menú.
+
 ![image](https://github.com/user-attachments/assets/d16bb4fa-c6a2-4933-a87a-c7d541e2634b)
 
 Así mismo la tabla “order_details” para conocer los datos que han sido recolectados dando como resultado una tabla más extensa pero se puso la siguiente imagnen para que se visualice la composición de la tabla. 
+
 ![image](https://github.com/user-attachments/assets/54999ce2-d78b-4781-b6c7-03892c6168af)
 
 Posterior se hicieron diferentes consultas entre las más relevantes son: 
+
 --¿Cuál es el artículo menos caro y el más caro en el menú?
 
 ![image](https://github.com/user-attachments/assets/4ed8fe63-ff39-40d6-b76a-dfbac112c7eb)
