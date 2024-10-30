@@ -33,6 +33,7 @@ Posterior se hicieron diferentes consultas entre las más relevantes son:
 ![image](https://github.com/user-attachments/assets/7fd919ad-9038-4deb-8622-2fc2fec0955d)
 
 --¿Cuáles son los 5 pedidos que tuvieron el mayor número de artículos?
+
 ![image](https://github.com/user-attachments/assets/23276f71-fa70-4952-b039-2b937d03a87a)
 
 Entre otras, con la finalidad de conocer ambas tablas y tener una noción de los datios en las mismas. Aunado ha eso se hizo una unión de ambas tablas para realizar asi el analisis. 
