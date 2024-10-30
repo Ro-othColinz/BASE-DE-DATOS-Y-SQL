@@ -56,5 +56,4 @@ Las siguientes consultas se hiceron de esta unión (left join)
 ![image](https://github.com/user-attachments/assets/9eca67a1-473b-4f66-ab32-cb2994d835d3)
 
 ## Conclusión
-
-
+Conocer los datos a profundidad nos ayuda a tomar mejor desiciones, considero que la inforación otorgada para este caso cumple con el objetivo ya que en las consultas se puede observar cada detalle (precio,categoria, pedidos entre otro) asi mismo considero que no deben de hacer modificaciones con los platillos que si gustaron y enfocarse en aquellos que no. asi mismo visualizar que los precioss vayan acorde a los platillos.
